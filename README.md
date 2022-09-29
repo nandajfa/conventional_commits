@@ -1,5 +1,5 @@
 <h1 align="center">
-	📄 Conventional Commits
+	📄<br>Conventional Commits
  </h1>
 
   [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/conventional_commits/blob/main/LICENSE)
@@ -345,4 +345,4 @@ Example: Circle, Travis, BrowserStack, etc.
 Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
 
 
-<br>[🔝 Voltar ao topo](#📄Conventional-Commits) <br>
+<br>[🔝 Voltar ao topo](#conventional-commits-) <br>
