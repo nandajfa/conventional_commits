@@ -72,7 +72,7 @@ Example: Circle, Travis, BrowserStack, etc.
 
 - `revert` - indicates a revert of a previous commit.
 
-  <img src="img/git.PNG">
+  <img src="img/git.png">
 
   ### ☑️ Recommendations
 
