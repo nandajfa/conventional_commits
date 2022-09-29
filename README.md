@@ -41,7 +41,7 @@ git commit -m "refactor: changed the markup"
 git commit -m "refactor(web/mobile): change createUser() logs"
 ```
 
-### What are the commit types?
+### ⬇️ What are the commit types?
 
 The type is responsible for telling us what type of change or iteration is being made, from the convention rules, we have the following types:
 
@@ -345,16 +345,4 @@ Example: Circle, Travis, BrowserStack, etc.
 Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
 
 
-<br>[🔝 Voltar ao topo](#conventional Commits-) <br>
-
-
-
-
-
-
-
-
-
-
-
-
+<br>[🔝 Voltar ao topo](#conventional-commits) <br>
