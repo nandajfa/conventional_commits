@@ -27,9 +27,11 @@ There are several benefits in using this kind of convention, such as being able 
 The rules are very simple, as shown below we have a commit type (type), the commit scope and the commit subject/message (subject), but further on I will detail each one.
 
 ```bash
-!type(?scope): !subject #required (!)
-<?body> #optional (?)
-<?footer> #optional (?)
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
 ```
 
 Example:
