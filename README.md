@@ -6,7 +6,7 @@
 
 ---
 
-  <img src="img/git.PNG">
+  <img src="img/git.png">
 
 ---
 
