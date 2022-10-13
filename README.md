@@ -16,13 +16,29 @@ It is important to use git commit properly. Having a consistent, standardized la
 
 Commits are points in the timeline of a project. When documented properly they show us who made a change, when, in what context and what kind of change was made. With this in mind, let's get to know the Conventional Commits Pattern.
 
-### 💡 What it is?
+### Index
+
+You're sections headers will be used to reference location of destination.
+
+- [What it is?  💡](#what-it-is)
+- [How To Use  📝](#how-to-use)
+- [What are the commit types? ⬇️ ](#what-are-the-commit-types)
+- [Recommendations ☑️](#recommendations)
+- [Emoji patterns 📍](#emoji-patterns)
+- [References 🔗](#references)
+- [Author Info  ✒️](#author)
+
+---
+
+###  What it is?
 
 Conventional Commits is a simple commit messaging convention that follows a set of rules and helps projects to have an explicit and well-structured commit history.
 
 There are several benefits in using this kind of convention, such as being able to automate the creation of CHNGELOGs, facilitate the entry of new Devs into the project, as well as being able to generate reports and understand where the project's hours are being concentrated (on code refactoring, feature creation, style changes, development environment, among others).
 
-### 📝 How to use?
+---
+
+###  How to use?
 
 The rules are very simple, as shown below we have a commit type (type), the commit scope and the commit subject/message (subject), but further on I will detail each one.
 
@@ -40,8 +56,11 @@ Example:
 git commit -m "refactor: changed the markup"
 git commit -m "refactor(web/mobile): change createUser() logs"
 ```
+<br>[🔝 Back To The Top](#conventional-commits-) <br>
 
-### ⬇️ What are the commit types?
+---
+
+###  What are the commit types? 
 
 The type is responsible for telling us what type of change or iteration is being made, from the convention rules, we have the following types:
 
@@ -74,7 +93,9 @@ Example: Circle, Travis, BrowserStack, etc.
 
   <img src="img/commit.png">
 
-  ### ☑️ Recommendations
+---
+
+  ###  Recommendations 
 
   - Add a title consistent with the title of the content;
   - We recommend that the first line should be no longer than 4 words;
@@ -82,7 +103,11 @@ Example: Circle, Travis, BrowserStack, etc.
   - Use an emoji at the beginning of the commit message representing about the commit;
   - A link needs to be added in its most authentic form, that is: without link shorteners and affiliate links;
 
-  ### 📍 Emoji patterns
+<br>[🔝 Back To The Top](#conventional-commits-) <br>
+
+---
+
+  ###  Emoji patterns 
 
   <table>
   <thead>
@@ -256,6 +281,10 @@ Example: Circle, Travis, BrowserStack, etc.
   </tbody>
 </table>
 
+<br>[🔝 Back To The Top](#conventional-commits-) <br>
+
+---
+
 ### 💻 Examples
 <table>
   <thead>
@@ -334,15 +363,19 @@ Example: Circle, Travis, BrowserStack, etc.
   </tbody>
 </table>
 
-### 🔗 References
+---
+
+###  References 
 
 * ➡️ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
 * ➡️ [Conventional Commits Pattern](https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657)
 * ➡️ [Ilegra](https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/)
 
- #### Author
+---
+
+ ### Author
 
 Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
 
 
-<br>[🔝 Voltar ao topo](#conventional-commits-) <br>
+<br>[🔝 Back To The Top](#conventional-commits-) <br>
