@@ -375,7 +375,7 @@ Example: Circle, Travis, BrowserStack, etc.
 
  ### Author
 
-Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
+Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-106651205)
 
 
 <br>[🔝 Back To The Top](#conventional-commits-) <br>
