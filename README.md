@@ -2,8 +2,13 @@
 	📄<br>Conventional Commits
  </h1>
 
+<div align="center">
+
+ [English](https://github.com/nandajfa/conventional_commits) | [Português](https://github.com/nandajfa/padroes-de-commits)
+
   [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/conventional_commits/blob/main/LICENSE)
 
+</div>
 ---
 
   <img src="img/git.png">
@@ -375,7 +380,13 @@ Example: Circle, Travis, BrowserStack, etc.
 
  ### Author
 
-Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-106651205)
+Made with ♥ by by:
+
+ | [<img src="https://avatars.githubusercontent.com/u/80687429?v=4" width=115><br><sub>Jessica Fernanda</sub>](https://github.com/nandajfa) |
+ | :---: |
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-106651205)](https://www.linkedin.com/in/jessica-fernanda-106651205)
+[![Gmail Badge](https://img.shields.io/badge/-nanda.jfa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
 
 
 <br>[🔝 Back To The Top](#conventional-commits-) <br>
